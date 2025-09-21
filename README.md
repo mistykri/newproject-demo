@@ -1,5 +1,4 @@
 # newproject-demo
 This is my first Git Repository.,
 <Br>
-Author-Misty Kumari
-Tejaswi
+Author-Misty
